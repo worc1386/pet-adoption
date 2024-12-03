@@ -178,7 +178,7 @@ body {
 
 .pet-filter .active,
 .pet-filter .active:hover {
-  color: #475aff;
+  color: #ff4784;
   text-decoration: underline;
 }
 
